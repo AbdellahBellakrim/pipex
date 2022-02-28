@@ -13,3 +13,6 @@ Only for the bonus program, it supports not only the single angle bracket for th
 ```
 ./pipex here_doc <limiter> <cmd1> <cmd2> <cmd3> ... <outfile>
 ```
+check this picture below it can helps :
+
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/2850b3706478e5bbc5156c43dc9066040dca70ec/Screen%20Shot%202022-02-28%20at%201.52.22%20PM.png)
