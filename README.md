@@ -16,3 +16,11 @@ Only for the bonus program, it supports not only the single angle bracket for th
 check this picture below it can helps :
 
 ![screenshot of sample](https://github.com/heybellakrim/pipex/blob/c502c354eeb1f2ff2c5ea432d4b2fa52ccd9bb7a/Screen%20Shot%202022-02-28%20at%203.52.25%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.52.59%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.53.11%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.54.01%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.54.11%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.55.02%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.55.34%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%203.56.21%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/8a0df934ab6176881553cb7e429b7a5f314a3775/Screen%20Shot%202022-02-28%20at%204.02.27%20PM.png)
