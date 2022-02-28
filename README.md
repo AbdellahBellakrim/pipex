@@ -15,4 +15,4 @@ Only for the bonus program, it supports not only the single angle bracket for th
 ```
 check this picture below it can helps :
 
-![screenshot of sample](https://github.com/heybellakrim/pipex/blob/2850b3706478e5bbc5156c43dc9066040dca70ec/Screen%20Shot%202022-02-28%20at%201.52.22%20PM.png)
+![screenshot of sample](https://github.com/heybellakrim/pipex/blob/c502c354eeb1f2ff2c5ea432d4b2fa52ccd9bb7a/Screen%20Shot%202022-02-28%20at%203.52.25%20PM.png)
