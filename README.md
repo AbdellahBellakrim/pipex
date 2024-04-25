@@ -3,7 +3,6 @@
 ## Summary
 This project allows you to explore the details of a UNIX mechanism by implementing it in your program.
 
-**Version:** 3
 
 ## Table of Contents
 - [Common Instructions](#common-instructions)
