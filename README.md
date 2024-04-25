@@ -1,7 +1,7 @@
 # Pipex
 
 ## Summary
-This project allows you to explore the details of a UNIX mechanism by implementing it in your program.
+This project allows you to explore the details of pipes in UNIX mechanism by implementing it in your program.
 
 
 ## Table of Contents
